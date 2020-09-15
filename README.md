@@ -1,6 +1,8 @@
 # Animal Products
-  ### Dog Products
-  ### Cat Products
+  ### Dog Products API 
+  http://localhost:5000/dogProducts
+  ### Cat Products API 
+  http://localhost:5000/catProducts
 A Restful API built with Node.js, Express.js and MongoDB.
 ## Quick Start
 Add your DB_CONNECTION url to file named .env
